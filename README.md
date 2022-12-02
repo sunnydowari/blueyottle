@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blueyottle
 - 👀 I’m interested in building applications
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on applications with SQL back and forth.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on applications with NoSQL back and forth.
 - 📫 How to reach me sunnydowari@gmail.com
 
 <!---
