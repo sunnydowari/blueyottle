@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blueyottle
+- 👋 Hi, I’m Sunny Dowari
 - 👀 I’m interested in building applications
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on applications with NoSQL back and forth.
